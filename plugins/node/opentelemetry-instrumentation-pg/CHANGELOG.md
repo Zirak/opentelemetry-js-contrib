@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.36.3](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pg-v0.36.2...instrumentation-pg-v0.36.3) (2023-10-27)
+
+
+### Bug Fixes
+
+* **pg:** fix instrumentation of ESM-imported pg ([#1701](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1701)) ([2502e18](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/2502e18e03ed8796679349a534100d743dc639e6))
+
 ## [0.36.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pg-v0.36.1...instrumentation-pg-v0.36.2) (2023-10-10)
 
 

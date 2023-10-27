@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.37.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.37.1...instrumentation-mongodb-v0.37.2) (2023-10-27)
+
+
+### Bug Fixes
+
+* fix context loss when cursor are accesed concurrently ([#1721](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1721)) ([1dc2e81](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/1dc2e815edf81bd0b691639fcb5ba36766e1ec3f))
+
 ## [0.37.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.37.0...instrumentation-mongodb-v0.37.1) (2023-10-10)
 
 

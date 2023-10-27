@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/resource-detector-azure-v0.1.0...resource-detector-azure-v0.2.0) (2023-10-27)
+
+
+### Features
+
+* Add Azure App Service, Azure Functions, and VM Resource Detectors ([#1740](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1740)) ([1b0caa6](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/1b0caa61972d969e3baea6a7db365e66dafe0c5d))
+
 ## [0.1.0]() ()
 
 ### Features

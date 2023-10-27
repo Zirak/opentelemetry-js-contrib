@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.35.3](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-ioredis-v0.35.2...instrumentation-ioredis-v0.35.3) (2023-10-27)
+
+
+### Bug Fixes
+
+* **ioredis:** fix instrumentation of ESM-imported ioredis ([#1694](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1694)) ([7b457cd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/7b457cdbcf322a31bbf9dba1412ba49b2da587eb))
+
 ## [0.35.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-ioredis-v0.35.1...instrumentation-ioredis-v0.35.2) (2023-10-10)
 
 
